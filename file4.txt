@@ -1,1 +1,2 @@
 I am commit #4
+User #2 made changes to the file
