@@ -1,2 +1,2 @@
-I am commit #2
+I am commit #2  **********
 Мы настроили SSH ключ
